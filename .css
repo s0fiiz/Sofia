@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(0, 0, 0);
+    font-family: fantasy;
+}
+
+.card{
+
+}
+.contenedor{
+    display: flex;
+    margin-left: 0%;
+}
+
+img{
+    height: 400px;
+}
